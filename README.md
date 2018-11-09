@@ -1,8 +1,9 @@
 # LSD-Questionnaire
-**UFO del i projektet**
+**UFO part**
 #### Link:
 https://datsoftlyngby.github.io/soft2018fall/UFO/05-Observation_and_Surveys.html
 
+#### Things to be done:
 - Prepare a questionnaire with Google Forms to get feedback on the quality of your operation documentation in LSD.
     - Let your questionnaire consist of at maximum 15 items.
     - Choose those items, that deem to be most suitable for this task.
