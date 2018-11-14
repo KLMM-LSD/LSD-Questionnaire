@@ -26,10 +26,10 @@ https://datsoftlyngby.github.io/soft2018fall/UFO/05-Observation_and_Surveys.html
 - Yderligere ting der skal nævnes?
 
 ### Actual Answers
-1. Answer on.
---
-TBD
---
+1. Answers person one:
+    - TBD
+2. Answers person two:
+    - TBD
 
 ### Conclusion regarding main issues
 
