@@ -20,6 +20,7 @@ https://datsoftlyngby.github.io/soft2018fall/UFO/05-Observation_and_Surveys.html
 **Questions**:
 - Er du tilfreds med måden du skal informere på?
 - Forstår du dokumentationen?
+    - Scale from 1 to 10
 - Er der områder i vores dokumentation, der burde være bedre uddybet?
     - Hvis ja - hvorfor?
 - Er du glad for kommunikationsformatet mellem vores grupper?
