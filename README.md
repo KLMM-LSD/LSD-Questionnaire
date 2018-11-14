@@ -21,7 +21,7 @@ https://datsoftlyngby.github.io/soft2018fall/UFO/05-Observation_and_Surveys.html
 - Er du tilfreds med måden du skal informere på?
 - Forstår du dokumentationen?
 - Er der områder i vores dokumentation, der burde være bedre uddybet?
-    - Hvi ja - hvorfor?
+    - Hvis ja - hvorfor?
 - Er du glad for kommunikationsformatet mellem vores grupper?
 - Tilfreds med fejlrapportformatet?
 - Yderligere ting der skal nævnes?
