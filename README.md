@@ -15,7 +15,7 @@ https://datsoftlyngby.github.io/soft2018fall/UFO/05-Observation_and_Surveys.html
 
 ## Hand-in
 ### Questions
-#### Link to Questionnaire: TBD
+#### Link to Questionnaire: https://docs.google.com/forms/d/e/1FAIpQLSflZ2wKPQH-TA0uMkGizU6dLGB24_dR13eWM0I5cLsAs5O2dQ/viewform
 
 **Questions**:
 - Er du tilfreds med måden du skal informere på?
