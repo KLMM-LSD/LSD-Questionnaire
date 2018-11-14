@@ -41,10 +41,10 @@ https://datsoftlyngby.github.io/soft2018fall/UFO/05-Observation_and_Surveys.html
     - Nej
 
 ### Conclusion regarding main issues
-TBD fra deres svar
+There haven't really been any issues, since none was pointed out
 
 ### List of changes from these issues
-TBD
+There haven't really been any changes since our operative group didn't think anyhting really should be changed
 
 ### Estimate time used producing documentation and to solve exercise
-indtil videre 4 timer - mere tid er TBD
+14 timer.
