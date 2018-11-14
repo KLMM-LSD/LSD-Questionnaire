@@ -27,14 +27,18 @@ https://datsoftlyngby.github.io/soft2018fall/UFO/05-Observation_and_Surveys.html
 - Yderligere ting der skal nævnes?
 
 ### Actual Answers
-1. Answers person one:
-    - TBD
-2. Answers person two:
-    - TBD
-3. Answers person three:
-    - TBD
-4. Answers person four:
-    - TBD
+- Svar 1.
+    - Ja
+- Svar 2.
+    - 7
+- Svar 3.
+    - Nej
+- Svar 4.
+    - Ja
+- Svar 5.
+    - Ja
+- Svar 6.
+    - Nej
 
 ### Conclusion regarding main issues
 TBD fra deres svar
