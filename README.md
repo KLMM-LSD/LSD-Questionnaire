@@ -13,6 +13,7 @@ https://datsoftlyngby.github.io/soft2018fall/UFO/05-Observation_and_Surveys.html
 - In case you realize that the responding team points out issues with your current operation documentation, modify and improve it accordingly.
 - Inform the operations team that an improved version of the operations documentation is accessible and point out what you have changed, i.e., provide a changelog.
 
+## Hand-in
 ### Questions
 #### Link to Questionnaire: TBD
 
@@ -30,11 +31,16 @@ https://datsoftlyngby.github.io/soft2018fall/UFO/05-Observation_and_Surveys.html
     - TBD
 2. Answers person two:
     - TBD
+3. Answers person three:
+    - TBD
+4. Answers person four:
+    - TBD
 
 ### Conclusion regarding main issues
-
+TBD fra deres svar
 
 ### List of changes from these issues
-
+TBD
 
 ### Estimate time used producing documentation and to solve exercise
+indtil videre 4 timer - mere tid er TBD
