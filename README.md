@@ -47,4 +47,4 @@ There haven't really been any issues, since none was pointed out
 There haven't really been any changes since our operative group didn't think anyhting really should be changed
 
 ### Estimate time used producing documentation and to solve exercise
-14 timer.
+14 hours.
