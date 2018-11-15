@@ -42,7 +42,7 @@ https://datsoftlyngby.github.io/soft2018fall/UFO/05-Observation_and_Surveys.html
     - Nej
 
 ### Conclusion regarding main issues
-There haven't really been any issues, since none was pointed out
+There haven't really been any issues, since none was pointed out. We didn't get as much feedback as we'd hoped (i.e. only 1 person answered the questionnaire initially). 
 
 ### List of changes from these issues
 There haven't really been any changes since our operative group didn't think anyhting really should be changed
